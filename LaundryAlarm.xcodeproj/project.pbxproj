@@ -45,6 +45,7 @@
 		5894E599270C81D900458894 /* LaundryAlarmUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LaundryAlarmUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5894E59D270C81D900458894 /* LaundryAlarmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaundryAlarmUITests.swift; sourceTree = "<group>"; };
 		5894E59F270C81D900458894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5894E5AE270C852500458894 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		5894E574270C81CD00458894 = {
 			isa = PBXGroup;
 			children = (
+				5894E5AE270C852500458894 /* README.md */,
 				5894E57F270C81CD00458894 /* LaundryAlarm */,
 				5894E591270C81D900458894 /* LaundryAlarmTests */,
 				5894E59C270C81D900458894 /* LaundryAlarmUITests */,
